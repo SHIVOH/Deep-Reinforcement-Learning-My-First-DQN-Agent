@@ -21,3 +21,4 @@ The banana collection is an episodic game. Idea is to maximise the total score i
 ## My Solution
 - Run [Navigation.ipynb](/Navigation.ipynb)
 - See a glimpse of my [agent during training](https://youtu.be/tCtFOyover) and my [trained agent](https://www.youtube.com/watch?v=YRjJCcCDLC) collecting bananas on YouTube.
+- Do checkout the my [Report](/Navigation.ipynb) for more theoretical explanation of the project implementation.
