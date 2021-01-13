@@ -13,7 +13,7 @@ The agent needs to collect as many yellow bananas as possible while avoiding the
 - Yellow banana `+1` reward
 - Blue banana `-1` reward
 ## When is environment said to be solved ?
-The banana collection is an episodic game. Idea is to maximise the total score in an episode. The environment is said to be solved if the agent secures an average score of at least `+13` points over `100` consecutive episodes.
+The banana collection is an episodic game. Idea is to maximise the total score in an episode. The environment is said to be solved if the agent learns to secure an average score of at least `+13` points over `100` consecutive episodes.
 ## How to get started ?
 - Gain a basic understanding of [Unity Environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector)
 - Set up a Python 3.6 Environment to install [Dependencies](https://github.com/udacity/deep-reinforcement-learning#dependencies) involving PyTorch, the ML-Agent toolkit and a few more Python packages.
