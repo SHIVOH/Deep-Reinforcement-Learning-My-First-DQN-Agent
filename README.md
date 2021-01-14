@@ -19,6 +19,7 @@ The banana collection is an episodic game. Idea is to maximise the total score i
 - Set up a Python 3.6 Environment to install [Dependencies](https://github.com/udacity/deep-reinforcement-learning#dependencies) involving PyTorch, the ML-Agent toolkit and a few more Python packages.
 - Download a Unity Environment for [Windows(64-bit)](https://classroom.udacity.com/nanodegrees/nd893/parts/6b0c03a7-6667-4fcf-a9ed-dd41a2f76485/modules/e7499d4f-24f9-42ec-9864-23adcfa4e241/lessons/69bd42c6-b70e-4866-9764-9bfa8c03cdea/concepts/319dc918-bd2c-4d3b-80a5-063bb5f1905a)/[Windows(32-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)/[Mac OSX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)/[LINUX](https://classroom.udacity.com/nanodegrees/nd893/parts/6b0c03a7-6667-4fcf-a9ed-dd41a2f76485/modules/e7499d4f-24f9-42ec-9864-23adcfa4e241/lessons/69bd42c6-b70e-4866-9764-9bfa8c03cdea/concepts/319dc918-bd2c-4d3b-80a5-063bb5f1905a)
 ## My Solution
+[image](https://github.com/SHIVOH/Deep-Reinforcement-Learning-My-First-DQN-Agent/blob/main/resultDRL.png)
 - Run [Navigation.ipynb](/Navigation.ipynb)
 - See a glimpse of my [agent during training](https://youtu.be/tCtFOyover) and my [trained agent](https://www.youtube.com/watch?v=YRjJCcCDLC) collecting bananas on YouTube.
 - Do checkout my [Report](/Navigation.ipynb) for more theoretical explanation of the project implementation.
