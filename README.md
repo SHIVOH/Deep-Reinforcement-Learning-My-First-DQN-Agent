@@ -21,5 +21,5 @@ The banana collection is an episodic game. Idea is to maximise the total score i
 ## My Solution
 ![image](https://github.com/SHIVOH/Deep-Reinforcement-Learning-My-First-DQN-Agent/blob/main/resultDRL.png)
 - Run [Navigation.ipynb](/Navigation.ipynb)
-- See a glimpse of my [agent during training](https://youtu.be/tCtFOyover) and my [trained agent](https://www.youtube.com/watch?v=YRjJCcCDLC) collecting bananas on YouTube.
+- See a glimpse of my [agent during training](https://www.youtube.com/watch?v=GsU6uDynaw8) and my [trained agent](https://www.youtube.com/watch?v=aMmo9q_zODk) collecting bananas on YouTube.
 - Do checkout my [Report](/Navigation.ipynb) for more theoretical explanation of the project implementation.
