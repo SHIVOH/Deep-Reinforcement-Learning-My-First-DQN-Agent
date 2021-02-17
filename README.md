@@ -1,4 +1,4 @@
-# Deep-Reinforcement-Learning-My-First-DQN-Agent
+# Deep Reinforcement Learning Agent (DQN algorithm)
 This is an implementation of Deep Reinforcement Learning for a navigation task. Specifically, DQN algorithm with experience replay method is used to solve the task.
 ## Details of the environment 
 THe environment is a [Unity Environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector) which consists of a square surface with Yellow and Blue Bananas scattered around. 
